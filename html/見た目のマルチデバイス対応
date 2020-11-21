@@ -1,0 +1,4 @@
+# 見た目のマルチデバイス対応
+CSSをPCの見た目だけを考慮して構築した場合にスマホで見るを異様に小さく見えることがある  
+そこで、以下のタグを入れることでマルチデバイスにある程度対応できるようになる。  
+`<meta name="viewport" content="width=device-width, initial-scale=1">`  
